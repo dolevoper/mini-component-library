@@ -68,7 +68,7 @@ color: inherit;
 
 const IconContainer = styled.span`
 position: absolute;
-top: var(--icon-top)
+top: var(--icon-top);
 `;
 
 export default IconInput;
